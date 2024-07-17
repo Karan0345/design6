@@ -30,11 +30,11 @@ main {
 
 /* Page Loader */
 .js .loading::before,
-.js .loading::after {
+/* .js .loading::after {
 	content: '';
 	position: fixed;
 	z-index: 1000;
-}
+} */
 
 .js .loading::before {
 	top: 0;
